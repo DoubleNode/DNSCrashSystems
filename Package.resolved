@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DNSProtocols",
+        "repositoryURL": "https://github.com/DoubleNode/DNSProtocols.git",
+        "state": {
+          "branch": null,
+          "revision": "ef31d641a4f483cb4b95a2c220b8eab62a746bf3",
+          "version": "1.0.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
