@@ -2,12 +2,21 @@
   "object": {
     "pins": [
       {
+        "package": "DNSBlankSystems",
+        "repositoryURL": "https://github.com/DoubleNode/DNSBlankSystems.git",
+        "state": {
+          "branch": null,
+          "revision": "7652f5f118e20ba604721215f1d387de23b13cd4",
+          "version": "1.0.0"
+        }
+      },
+      {
         "package": "DNSProtocols",
         "repositoryURL": "https://github.com/DoubleNode/DNSProtocols.git",
         "state": {
           "branch": null,
-          "revision": "ef31d641a4f483cb4b95a2c220b8eab62a746bf3",
-          "version": "1.0.8"
+          "revision": "e90cde6bc45dd0bcc9597cc58e74e56c430aae10",
+          "version": "1.0.9"
         }
       }
     ]
