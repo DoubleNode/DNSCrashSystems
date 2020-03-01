@@ -2,12 +2,48 @@
   "object": {
     "pins": [
       {
+        "package": "AtomicSwift",
+        "repositoryURL": "https://github.com/MarioIannotta/AtomicSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "e2913c6e873bc60237dd138ba0db9b109016dd80",
+          "version": "1.2.1"
+        }
+      },
+      {
         "package": "DNSBlankSystems",
         "repositoryURL": "https://github.com/DoubleNode/DNSBlankSystems.git",
         "state": {
           "branch": null,
-          "revision": "7652f5f118e20ba604721215f1d387de23b13cd4",
-          "version": "1.0.0"
+          "revision": "b5eb2fbd13e1d3c46fd4c7c14550ec0a6b1b7c7e",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "DNSCore",
+        "repositoryURL": "https://github.com/DoubleNode/DNSCore.git",
+        "state": {
+          "branch": null,
+          "revision": "c7ff67bfd97355810b6fd024fb18d239cc4eb371",
+          "version": "1.0.32"
+        }
+      },
+      {
+        "package": "DNSCoreThreading",
+        "repositoryURL": "https://github.com/DoubleNode/DNSCoreThreading.git",
+        "state": {
+          "branch": null,
+          "revision": "5aabf8903dc17a170055ddf7f307ec9ac89ba9a1",
+          "version": "1.0.10"
+        }
+      },
+      {
+        "package": "DNSDataObjects",
+        "repositoryURL": "https://github.com/DoubleNode/DNSDataObjects.git",
+        "state": {
+          "branch": null,
+          "revision": "f52911d47987c92af72afe84d021ada1f0099d5d",
+          "version": "1.0.10"
         }
       },
       {
@@ -15,8 +51,26 @@
         "repositoryURL": "https://github.com/DoubleNode/DNSProtocols.git",
         "state": {
           "branch": null,
-          "revision": "e90cde6bc45dd0bcc9597cc58e74e56c430aae10",
-          "version": "1.0.9"
+          "revision": "a4bb35b21d615df83f3bfdb52b7ef6d916627a28",
+          "version": "1.0.22"
+        }
+      },
+      {
+        "package": "SFSymbol",
+        "repositoryURL": "https://github.com/Nirma/SFSymbol",
+        "state": {
+          "branch": null,
+          "revision": "5eba1ce4fc19b2f5aca2208b5927c544e0e89963",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
+        "state": {
+          "branch": null,
+          "revision": "2f2b7ac0b675e9d0ac696758f15bbff97eb65a31",
+          "version": "1.8.4"
         }
       }
     ]
