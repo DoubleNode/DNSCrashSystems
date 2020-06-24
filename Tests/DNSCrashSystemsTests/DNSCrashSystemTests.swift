@@ -1,3 +1,11 @@
+//
+//  DNSCrashSystemsTests.swift
+//  DoubleNode Swift Framework (DNSFramework) - DNSCrashSystemsTests
+//
+//  Created by Darren Ehlers.
+//  Copyright © 2020 - 2016 DoubleNode.com. All rights reserved.
+//
+
 import XCTest
 @testable import DNSCrashSystems
 
