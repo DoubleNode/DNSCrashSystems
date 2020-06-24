@@ -21,7 +21,7 @@ DNSCrashSystems is a collection of blank system classes used for the DNSFramewor
 ## Requirements
 
 -   iOS 13.0+ / macOS 10.15+ / tvOS 13.0+ / watchOS 6.0+
--   Xcode 11.1+
+-   Xcode 11.6+
 -   Swift 5.1+
 
 ## Installation
@@ -34,13 +34,13 @@ Once you have your Swift package set up, adding Alamofire as a dependency is as 
 
 ```swift
 dependencies: [
-.package(url: "https://github.com/DoubleNode/DNSCrashSystems.git", from: "1.0.0")
+.package(url: "https://github.com/DoubleNode/DNSCrashSystems.git", from: "1.1.0")
 ]
 ```
 
 ## Dependencies
 
--   DNSProtocols v1.0.0+
+-   DNSBlankSystems v1.1.0+
 
 ## Credits
 
@@ -48,4 +48,4 @@ DNSCrashSystems and the DNSFramework are owned and maintained by Darren Ehlers a
 
 ## License
 
-DNSCrashSystems and the DNSFramework are Copyright © 2019 - 2016 Darren Ehlers and DoubleNode, LLC. All rights reserved.
+DNSCrashSystems and the DNSFramework are Copyright © 2020 - 2016 Darren Ehlers and DoubleNode, LLC. All rights reserved.
