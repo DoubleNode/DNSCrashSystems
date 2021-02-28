@@ -8,6 +8,7 @@
 
 import DNSError
 import DNSProtocols
+import Foundation
 
 public enum DNSCrashSystemsError: Error
 {
