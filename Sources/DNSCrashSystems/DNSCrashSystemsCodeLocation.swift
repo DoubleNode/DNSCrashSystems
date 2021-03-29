@@ -8,6 +8,9 @@
 
 import DNSError
 
+public extension DNSCodeLocation {
+    typealias crashSystems = DNSCrashSystemsCodeLocation
+}
 open class DNSCrashSystemsCodeLocation: DNSCodeLocation {
     override open class var domainPreface: String { "com.doublenode.crashSystems." }
 }
