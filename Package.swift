@@ -4,7 +4,7 @@
 //  DoubleNode Swift Framework (DNSFramework) - DNSCrashSystems
 //
 //  Created by Darren Ehlers.
-//  Copyright © 2020 - 2016 DoubleNode.com. All rights reserved.
+//  Copyright © 2022 - 2016 DoubleNode.com. All rights reserved.
 //
 
 import PackageDescription
@@ -26,9 +26,9 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/DoubleNode/DNSBlankSystems.git", from: "1.9.3"),
+        .package(url: "https://github.com/DoubleNode/DNSBlankSystems.git", from: "1.9.6"),
         .package(url: "https://github.com/DoubleNode/DNSError.git", from: "1.8.0"),
-        .package(url: "https://github.com/DoubleNode/DNSProtocols.git", from: "1.9.38"),
+        .package(url: "https://github.com/DoubleNode/DNSProtocols.git", from: "1.9.55"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
