@@ -1,133 +1,140 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "Alamofire",
-        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
-        "state": {
-          "branch": null,
-          "revision": "354dda32d89fc8cd4f5c46487f64957d355f53d8",
-          "version": "5.6.1"
-        }
-      },
-      {
-        "package": "AlamofireImage",
-        "repositoryURL": "https://github.com/Alamofire/AlamofireImage.git",
-        "state": {
-          "branch": null,
-          "revision": "98cbb00ce0ec5fc8e52a5b50a6bfc08d3e5aee10",
-          "version": "4.2.0"
-        }
-      },
-      {
-        "package": "AtomicSwift",
-        "repositoryURL": "https://github.com/DoubleNodeOpen/AtomicSwift.git",
-        "state": {
-          "branch": null,
-          "revision": "58fbeed795715d9c8dd7bb7ae1c36f37f2827089",
-          "version": "1.2.2"
-        }
-      },
-      {
-        "package": "DNSBlankNetwork",
-        "repositoryURL": "https://github.com/DoubleNode/DNSBlankNetwork.git",
-        "state": {
-          "branch": null,
-          "revision": "e4b441baf7761d5989213ddd1cbd31b00d5338a7",
-          "version": "1.9.17"
-        }
-      },
-      {
-        "package": "DNSBlankSystems",
-        "repositoryURL": "https://github.com/DoubleNode/DNSBlankSystems.git",
-        "state": {
-          "branch": null,
-          "revision": "a27702d21a9ccdbdeff32db79a267e6bb821c5fc",
-          "version": "1.9.9"
-        }
-      },
-      {
-        "package": "DNSCore",
-        "repositoryURL": "https://github.com/DoubleNode/DNSCore.git",
-        "state": {
-          "branch": null,
-          "revision": "e16b1ba5eae412f5c5b1ba12ca886674cc9eba0b",
-          "version": "1.9.21"
-        }
-      },
-      {
-        "package": "DNSCoreThreading",
-        "repositoryURL": "https://github.com/DoubleNode/DNSCoreThreading.git",
-        "state": {
-          "branch": null,
-          "revision": "24d5a62110fed06d627e979d1459f10c2b24643d",
-          "version": "1.9.0"
-        }
-      },
-      {
-        "package": "DNSCrashNetwork",
-        "repositoryURL": "https://github.com/DoubleNode/DNSCrashNetwork.git",
-        "state": {
-          "branch": null,
-          "revision": "fc5860abe43d40f4bae1492b3719f5157ac167df",
-          "version": "1.9.13"
-        }
-      },
-      {
-        "package": "DNSDataObjects",
-        "repositoryURL": "https://github.com/DoubleNode/DNSDataObjects.git",
-        "state": {
-          "branch": null,
-          "revision": "add8f1a740cd12c4bc662fd98d7e74dda9f90d81",
-          "version": "1.9.29"
-        }
-      },
-      {
-        "package": "DNSError",
-        "repositoryURL": "https://github.com/DoubleNode/DNSError.git",
-        "state": {
-          "branch": null,
-          "revision": "69d99c9f46c35b65764ba7dc85c2a206e1b1e665",
-          "version": "1.9.1"
-        }
-      },
-      {
-        "package": "DNSProtocols",
-        "repositoryURL": "https://github.com/DoubleNode/DNSProtocols.git",
-        "state": {
-          "branch": null,
-          "revision": "b1ea33f7506ad0bddcabbff8690e6db6b09bb695",
-          "version": "1.9.76"
-        }
-      },
-      {
-        "package": "Gifu",
-        "repositoryURL": "https://github.com/kaishin/Gifu.git",
-        "state": {
-          "branch": null,
-          "revision": "51f2eab32903e336f590c013267cfa4d7f8b06c4",
-          "version": "3.3.1"
-        }
-      },
-      {
-        "package": "SFSymbol",
-        "repositoryURL": "https://github.com/Nirma/SFSymbol",
-        "state": {
-          "branch": null,
-          "revision": "90ec3de89965be4612b496211e1f31a363a1df42",
-          "version": "1.1.0"
-        }
-      },
-      {
-        "package": "SwiftyBeaver",
-        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
-        "state": {
-          "branch": null,
-          "revision": "12b5acf96d98f91d50de447369bd18df74600f1a",
-          "version": "1.9.6"
-        }
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+        "version" : "5.6.2"
       }
-    ]
-  },
-  "version": 1
+    },
+    {
+      "identity" : "alamofireimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/AlamofireImage.git",
+      "state" : {
+        "revision" : "98cbb00ce0ec5fc8e52a5b50a6bfc08d3e5aee10",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "atomicswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNodeOpen/AtomicSwift.git",
+      "state" : {
+        "revision" : "58fbeed795715d9c8dd7bb7ae1c36f37f2827089",
+        "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "dnsblanknetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSBlankNetwork.git",
+      "state" : {
+        "revision" : "ec002817d3df2265d34fc466fd6e8e034f703449",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnsblanksystems",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSBlankSystems.git",
+      "state" : {
+        "revision" : "ef4de90b80503d9a343fa2f3f195e5b69d7d54fc",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnscore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSCore.git",
+      "state" : {
+        "revision" : "1ad5e3403717e0b2bf9c9019e7efb475bdf344ac",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnscorethreading",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSCoreThreading.git",
+      "state" : {
+        "revision" : "6669f09ec889a851bc9f354c79ebe1498578fc0b",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnscrashnetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSCrashNetwork.git",
+      "state" : {
+        "revision" : "e458b7662f448f5618a56d48b801a9f577d91394",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnsdataobjects",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSDataObjects.git",
+      "state" : {
+        "revision" : "f8cc2ac5bfb7ea57f8bf6e74b0c721e3eab8d802",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnserror",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSError.git",
+      "state" : {
+        "revision" : "e26f6b4d5855c49801e8d9b20d6304e93294c2cc",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "dnsprotocols",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DoubleNode/DNSProtocols.git",
+      "state" : {
+        "revision" : "09914218d7b239adf02f747f22ca74017fcfacb7",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "gifu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kaishin/Gifu.git",
+      "state" : {
+        "revision" : "51f2eab32903e336f590c013267cfa4d7f8b06c4",
+        "version" : "3.3.1"
+      }
+    },
+    {
+      "identity" : "keyedcodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dgrzeszczak/KeyedCodable.git",
+      "state" : {
+        "revision" : "7e24e26cf3a844ee0dbcdbcc8c78ed45f9570e69",
+        "version" : "3.1.2"
+      }
+    },
+    {
+      "identity" : "sfsymbol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Nirma/SFSymbol",
+      "state" : {
+        "revision" : "90ec3de89965be4612b496211e1f31a363a1df42",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftybeaver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
+      "state" : {
+        "revision" : "12b5acf96d98f91d50de447369bd18df74600f1a",
+        "version" : "1.9.6"
+      }
+    }
+  ],
+  "version" : 2
 }
